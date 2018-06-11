@@ -1,0 +1,28 @@
+
+h1 {
+    font-size: 50pt;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color:#999999;
+}
+
+#titleImage{
+    height: 150px;
+}
+.card {
+    margin: 10px;
+    width: auto;
+}
+.card-header
+{
+    background-color: #4169E1;
+    color: #ffffff;
+}
+form{
+    margin: 10px;
+}
+.form-group {
+    margin-left: 20px;
+    margin-right: 20px;
+}
